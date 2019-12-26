@@ -1,7 +1,7 @@
 ---
 title: 'Goodbye 2019'
 date: 2019-12-25
-permalink: /posts/Goodbye2019/
+permalink: /posts/2019/12/Goodbye2019/
 tags:
   - Diary
 ---
