@@ -1,6 +1,6 @@
 ---
 title: 'Goodbye 2019'
-date: 2019-12-31
+date: 2019-12-25
 permalink: /posts/Goodbye2019/
 tags:
   - Diary
