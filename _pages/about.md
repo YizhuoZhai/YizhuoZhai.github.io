@@ -10,8 +10,8 @@ redirect_from:
 
 This is Yizhuo's home on the web! I'm a PhD candidate in UC, Riverside and co-advised by [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
 ### News
-[08/07/2020]I authored 7 challenges for [Baidu AutoPwn](https://anquan.baidu.com/bctf/#/en/autopwn)
-[06/15/2020]I start my summer intern in Baidu X-lab.
+[08/07/2020]I authored 7 challenges for [Baidu AutoPwn](https://anquan.baidu.com/bctf/#/en/autopwn)  
+[06/15/2020]I start my summer intern in Baidu X-lab.  
 [05/19/2020]Our paper "UBITect: A Precise and Scalable Method to Detect Use-Before-Initialization Bugs in Linux Kernel" is accepted by ESEC/FSE 2020.
 
 ### My experience in the computer world:
