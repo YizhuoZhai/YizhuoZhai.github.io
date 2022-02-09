@@ -1,6 +1,6 @@
 ---
 title: 'Paper Notes:  The Taming of the Stack: Isolating Stack Data from Memory Errors (NDSS'22)'
-date: 2020-03-25
+date: 2022-02-07
 permalink: /posts/2022/02/TamingOfTheStackPaperNotes/
 tags:
   - Paper Notes, Static Analysis
