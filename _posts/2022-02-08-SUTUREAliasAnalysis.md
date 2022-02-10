@@ -11,3 +11,4 @@ SUTURE employs a novel summary-based high-order taint flow construction approach
 
 ## Notes: 
 The main focus is how to decide the alias relations/taint rules across the system call. In this paper they treat the object which has the same access path and the same type. The access path means from the same instance, following the same dereference offset.
+

@@ -21,3 +21,9 @@ Current defenses are too limited / expensive.
 ## Novelty:
 Extend the protection to all the stack variables instead of the pointers.
 Combine the static analysis and symbolic execution to figure out more safe variables in the stack and further reduce the overhead for run time.
+
+## Details
+**Spatial Constraints:** Ensure that all the accesses are within the bounds. 
+**Type Constraints:** Ensure the type cast for integer does not change tht value.
+**Temporal Constraints:** Ensure that all uses of the pointer are within the basic block that the objects are alive.
+
