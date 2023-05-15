@@ -12,6 +12,10 @@ Every artifact evaluation typically involves three criteria: availability, funct
 ### 1. Availability
 Availability refers to whether the artifact is publicly accessible under a permissive license. To publish the software, there are various options available, such as licensing a GitHub repository. At the very least, you need to provide a license to demonstrate that the software is indeed accessible.
 
+Here are some useful link you can refer to: 
+1) Licensing a repository: [Link](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)  
+2) Zenodo : [Link] (https://zenodo.org) 
+
 ### 2. Functionality
 Functionality assesses whether the artifact builds and runs successfully using the provided instructions. While the common practice involves installing dependencies using shell scripts, this can often lead to complications due to the default operating system already having some dependencies. To overcome this challenge, it is highly recommended to include a Dockerfile, which provides a containerized environment for seamless setup and execution.
 
