@@ -1,5 +1,8 @@
-# A Comprehensive Guide to Artifact Evaluation in Computer Science
-
+---
+title: 'A Simple Guide to Artifact Evaluation in Computer Science'
+date: 2023-05-15
+permalink: /posts/2023/05/ArtifactEvaluation/
+---
 ## Introduction
 In recent conferences in the field of computer science, artifact evaluation has become an integral part of facilitating further research. However, the process can often be lengthy and complicated for both authors and reviewers, primarily because authors may struggle with presenting their research prototypes effectively. In this article, we aim to provide guidance for successfully navigating the artifact evaluation process.
 
