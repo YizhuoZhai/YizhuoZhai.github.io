@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Yizhuo's home on the web! I'm a PhD candidate in UC, Riverside and co-advised by [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
+This is Yizhuo's home on the web! I'm a PhD candidate in UC, Riverside and co-advised by [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I also tightly collabrate with [Chengyu Song](https://www.cs.ucr.edu/~csong/) and [Manu Sridharan](https://manu.sridharan.net). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
 ### News
+[08/18/2023] Our workshop paper "Assisting Static Analysis with Large Language Models: A ChatGPT Experiment" is accepted by ESEC/FSE Ideas, Visions and Reflections(IVR) Track.   
 [04/20/2023] Our poster "Assisting Static Analysis with Large Language Models: A ChatGPT Experiment" is accepted by Oakland 2023.  
 [11/01/2022] I got the travel grant for CCS 2022.   
 [12/30/2021] Our paper "Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel" is accepted by NDSS 2022.  
