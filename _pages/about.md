@@ -10,7 +10,7 @@ redirect_from:
 
 This is Yizhuo's home on the web! I'm a PhD candidate in UC, Riverside and co-advised by [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I also tightly collabrate with [Chengyu Song](https://www.cs.ucr.edu/~csong/) and [Manu Sridharan](https://manu.sridharan.net). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
 ### News
-[09/15/2023] I successfully defended my dissertation!!! :confetti_ball: 
+[09/15/2023] I successfully defended my dissertation!!! 🎉🎉🎉   
 [08/01/2023] We have submitted our work of using LLM for assisting static analysis, the paper is stored in [arXiv](https://arxiv.org/abs/2308.00245).   
 [07/18/2023] Our workshop paper "Assisting Static Analysis with Large Language Models: A ChatGPT Experiment" is accepted by ESEC/FSE Ideas, Visions and Reflections(IVR) Track.   
 [04/20/2023] Our poster "Assisting Static Analysis with Large Language Models: A ChatGPT Experiment" is accepted by Oakland 2023.  
