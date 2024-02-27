@@ -10,6 +10,7 @@ redirect_from:
 
 Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Technology, working with [Taesoo Kim](https://taesoo.kim). I gain my PhD in UC, Riverside, under the guidance of  [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I also tightly collabrate with [Chengyu Song](https://www.cs.ucr.edu/~csong/) and [Manu Sridharan](https://manu.sridharan.net). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
 ### News
+[02/23/2024] Our paper "Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach" is accepted by OOPSLA 2024.    
 [11/01/2023] I started my postdoc at Georgia Institute of Technology.   
 [09/15/2023] I successfully defended my dissertation!!! 🎉🎉🎉   
 [08/01/2023] We have submitted our work of using LLM for assisting static analysis, the paper is stored in [arXiv](https://arxiv.org/abs/2308.00245).   
