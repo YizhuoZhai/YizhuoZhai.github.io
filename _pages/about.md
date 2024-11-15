@@ -10,8 +10,11 @@ redirect_from:
 
 Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Technology, working with [Taesoo Kim](https://taesoo.kim). I gain my PhD in UC, Riverside, under the guidance of  [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I also tightly collabrate with [Chengyu Song](https://www.cs.ucr.edu/~csong/) and [Manu Sridharan](https://manu.sridharan.net). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
 ### News
-[08/11/2024] Team Atlanta advances to finals in AIxCC competition!!!!   
+[10/31/2024] Our paper "RUG: Turbo LLM for Rust Unit Test Generation" is accepted by ICSE 2025.
+[08/11/2024] Team Atlanta advances to finals in AIxCC competition! $2 million award!!   
+[07/11/2024] I got the travel grant for USENIX 2024.
 [06/16/2024] Our paper "SymBisect: Accurate Bisection for Fuzzer-Exposed Vulnerabilities" is accepted by USENIX Security 2024.    
+[04/16/2024] I'm the program committee member for [ACSAC2024](https://www.acsac.org).
 [02/26/2024] Our paper "Don't Waste My Efforts: Pruning Redundant Sanitizer Checks of Developer-Implemented Type Checks" is accepted by USENIX Security 2024.    
 [02/23/2024] Our paper "Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach" is accepted by OOPSLA 2024.    
 [11/01/2023] I started my postdoc at Georgia Institute of Technology.   
@@ -32,6 +35,7 @@ Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Tec
 #### Security (C/C++)
 * Bug detection via program analysis in Linux Kernel
 * C/C++ sanitizers  
+
 * LLVM frontend, optimization and backend  
 * Clang plugin and libclang  
 * Exploits scripts for vulnerability(CVE-2014-3153)  
