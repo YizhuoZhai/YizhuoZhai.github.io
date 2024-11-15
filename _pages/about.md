@@ -14,7 +14,7 @@ Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Tec
 [08/11/2024] Team Atlanta advances to finals in AIxCC competition! $2 million award!!   
 [07/11/2024] I got the travel grant for USENIX 2024.
 [06/16/2024] Our paper "SymBisect: Accurate Bisection for Fuzzer-Exposed Vulnerabilities" is accepted by USENIX Security 2024.    
-[04/16/2024] I'm the program committee member for [ACSAC2024](https://www.acsac.org).
+[04/16/2024] I'm the program committee member for [ACSAC2024](https://www.acsac.org).   
 [02/26/2024] Our paper "Don't Waste My Efforts: Pruning Redundant Sanitizer Checks of Developer-Implemented Type Checks" is accepted by USENIX Security 2024.    
 [02/23/2024] Our paper "Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach" is accepted by OOPSLA 2024.    
 [11/01/2023] I started my postdoc at Georgia Institute of Technology.   
