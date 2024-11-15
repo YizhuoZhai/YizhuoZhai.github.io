@@ -12,7 +12,7 @@ Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Tec
 ### News
 [10/31/2024] Our paper "RUG: Turbo LLM for Rust Unit Test Generation" is accepted by ICSE 2025.   
 [08/11/2024] Team Atlanta advances to finals in AIxCC competition! $2 million award!!   
-[07/11/2024] I got the travel grant for USENIX 2024.
+[07/11/2024] I got the travel grant for USENIX 2024.   
 [06/16/2024] Our paper "SymBisect: Accurate Bisection for Fuzzer-Exposed Vulnerabilities" is accepted by USENIX Security 2024.    
 [04/16/2024] I'm the program committee member for [ACSAC2024](https://www.acsac.org).   
 [02/26/2024] Our paper "Don't Waste My Efforts: Pruning Redundant Sanitizer Checks of Developer-Implemented Type Checks" is accepted by USENIX Security 2024.    
