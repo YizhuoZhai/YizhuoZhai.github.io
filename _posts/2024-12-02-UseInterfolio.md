@@ -1,6 +1,7 @@
 # How to Use Interfolio to Forward Recommendation Letters  
 
-Interfolio is an excellent platform for requesting, storing, and forwarding recommendation letters from advisors, mentors, and peers. With Interfolio, you can request a letter once and use it for multiple applications without repeatedly asking your recommenders to upload the same letter.  
+Interfolio is an excellent platform for requesting, storing, and forwarding recommendation letters from advisors, mentors, and peers. With Interfolio, you can request a letter once and use it for multiple applications without repeatedly asking your recommenders to upload the same letter. You can directly upload the same letter with the same application system for free, for other application system, you need to upgrade first
+and use the delivery functionality ($59.99/year).
 
 ## How It Works  
 
@@ -23,14 +24,11 @@ Interfolio is an excellent platform for requesting, storing, and forwarding reco
 3. **Wait for the Letter to Be Uploaded**  
    Your recommender will upload the letter directly to Interfolio.  
 
-4. **View Details**  
-   Once the letter is uploaded, go to the letter's details by clicking **View Details**.  
+4. **New Deliveries**  
+   Navigate to **Deliveries** → **New Delivery**, selecting the letter that you want interfolio to deliver, you’ll find a unique email address associated with the letter. Copy this email address (it ends with `@interfoliodossier.com`) to the application system of the target university and then click contiue in the interfolio. 
 
-5. **Copy the Document Email**  
-   In the details section, you’ll find a unique email address associated with the letter. Copy this email address (it ends with `@interfoliodossier.com`).  
-
-6. **Use the Email Address for Applications**  
-   When completing applications on other platforms, enter this unique email address in the recommendation request field. This will allow the application system to retrieve the letter from Interfolio directly.  
+5. **Use the Email Address for Applications**  
+   When completing applications on other platforms, enter this unique email address in the recommendation request field copied from the last step. This will allow the application system to retrieve the letter from Interfolio directly.  
 
 ---
 
