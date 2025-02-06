@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 Welcome to Yizhuo's corner of the web! I'm a postdoc at Georgia Institute of Technology, working with [Taesoo Kim](https://taesoo.kim). I gain my PhD in UC, Riverside, under the guidance of  [Srikanth V. Krishnamurthy](https://www.cs.ucr.edu/~krish/) and [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/). I also tightly collabrate with [Chengyu Song](https://www.cs.ucr.edu/~csong/) and [Manu Sridharan](https://manu.sridharan.net). I'm into all the stuff about computers, especially how operating system works. Coding is the magic for me and I'm keeping improving my ability to wave the wand. 
+
+I'm on the job market!     
+   
 ### News
 [10/31/2024] Our paper "RUG: Turbo LLM for Rust Unit Test Generation" is accepted by ICSE 2025.   
 [08/11/2024] Team Atlanta advances to finals in AIxCC competition! $2 million award!!   
